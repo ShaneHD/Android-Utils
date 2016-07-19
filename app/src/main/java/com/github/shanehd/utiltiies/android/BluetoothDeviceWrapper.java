@@ -40,6 +40,8 @@ public class BluetoothDeviceWrapper implements IBluetoothDevice {
         this.in = in;
     }
 
+    //tet
+
     /**
      * Send a {@link String} in byte array form to the device
      */
